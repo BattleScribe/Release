@@ -1,6 +1,6 @@
 # Release
 
-Bug tracking for the release (live) version of BattleScribe. Bugs in pre-release versions (alpha / beta) should be reported here: [BattleScribe Development](https://github.com/BattleScribe/Development)
+Bug tracking for the release (live) version of BattleScribe. Bugs in pre-release versions (alpha / beta) should be reported here: [BattleScribe Pre-Release](https://github.com/BattleScribe/Pre-Release)
 
 **Download:** https://battlescribe.net/?tab=downloads
 
